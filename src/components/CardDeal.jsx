@@ -6,7 +6,7 @@ const CardDeal = () =>  (
     <section  className={layout.section}>
       <div className={layout.sectionInfo}>
         <h2 className={styles.heading2}>
-          Find a better card deal<br className="sm:block hidden"/> in few easy steps.
+          Find a better card deal in few easy steps.
         </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Optimize your finances with the right card deal strategy, simplifying your financial management and maximizing savings.</p>
         <Button styles='mt-10'/>
