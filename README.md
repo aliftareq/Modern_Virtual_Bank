@@ -33,6 +33,10 @@ A list of technologies used within the project:
 Tailwind Components ->
 [tailwind](https://tailwindcss.com/docs/installation)
 
+Design Used From ->
+[oneweekwonders](https://www.oneweekwonders.com)
+[dribbble](https://dribbble.com/OWWStudio)
+
 ## Other Resources
 
 ---
