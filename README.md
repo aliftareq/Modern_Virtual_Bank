@@ -24,7 +24,6 @@ Hosted in firebase -> [HooBank](https://hoobank-5c5fb.web.app/)
 A list of technologies used within the project:
 
 - [React](https://reactjs.org/): Version 18.2.0
-- [React router](https://reactrouter.com/en/main): Version 6.4.2
 - [firebase](https://firebase.google.com/docs/auth/web/start?hl=en&authuser=0): Version 10.0.0
 
 ## Resources & Credits
