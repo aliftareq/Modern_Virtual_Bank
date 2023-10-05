@@ -33,7 +33,7 @@ const App = () =>  (
         <AnimationOnScroll  initiallyVisible={true} animateIn="animate__flip">
           <CardDeal/>
         </AnimationOnScroll>
-        <AnimationOnScroll  initiallyVisible={true} duration={5} animateIn="animate__swing">
+        <AnimationOnScroll  initiallyVisible={true} duration={3} animateIn="animate__swing">
           <Testimonials/>
         </AnimationOnScroll>
          <Clients />
